@@ -1,0 +1,15 @@
+{
+  "author": "Ronaldo Sc",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "description": "Desenvolvimento de uma API chamada de “delivery-api” para controlar pedidos para entrega de comida",
+  "keywords": [],
+  "license": "ISC",
+  "main": "api.js",
+  "name": "api-delivery-comida",
+  "scripts": {
+    "start": "node api.js"
+  },
+  "version": "1.0.0"
+}
